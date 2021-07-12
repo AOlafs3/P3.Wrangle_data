@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-06-30T12:26:27Z"/>
+
+  <bounds minlat="42.4982000" minlon="-88.0764000" maxlat="42.6786000" maxlon="-87.7269000"/>
+
+  <node id="6331867298" lat="42.5712635" lon="-87.8620346" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867299" lat="42.5725107" lon="-87.8619503" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867300" lat="42.5715869" lon="-87.8661305" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867301" lat="42.5670257" lon="-87.8604744" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867302" lat="42.5706850" lon="-87.8634286" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867303" lat="42.5665599" lon="-87.8593409" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867304" lat="42.5668957" lon="-87.8585625" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867305" lat="42.5687057" lon="-87.8584024" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867306" lat="42.5665383" lon="-87.8605188" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867307" lat="42.5665900" lon="-87.8582734" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867308" lat="42.5698330" lon="-87.8599547" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867309" lat="42.5665221" lon="-87.8609040" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867310" lat="42.5730238" lon="-87.8626468" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867311" lat="42.5680815" lon="-87.8614192" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867312" lat="42.5734097" lon="-87.8599811" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867313" lat="42.5678804" lon="-87.8595638" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867314" lat="42.5671223" lon="-87.8621447" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867315" lat="42.5687769" lon="-87.8656051" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867316" lat="42.5706237" lon="-87.8656715" version="1" timestamp="2019-03-11T21:36:14Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867317" lat="42.5732566" lon="-87.8657867" version="1" timestamp="2019-03-11T21:36:15Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867318" lat="42.5711969" lon="-87.8614971" version="1" timestamp="2019-03-11T21:36:15Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867319" lat="42.5703670" lon="-87.8597311" version="1" timestamp="2019-03-11T21:36:15Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867320" lat="42.5690627" lon="-87.8624306" version="1" timestamp="2019-03-11T21:36:15Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867321" lat="42.5698971" lon="-87.8655440" version="1" timestamp="2019-03-11T21:36:15Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867322" lat="42.5705524" lon="-87.8658666" version="1" timestamp="2019-03-11T21:36:15Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867385" lat="42.5681339" lon="-87.8597305" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867386" lat="42.5720988" lon="-87.8595081" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867387" lat="42.5711784" lon="-87.8599948" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867388" lat="42.5731086" lon="-87.8621534" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867389" lat="42.5691206" lon="-87.8618180" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867390" lat="42.5714015" lon="-87.8661002" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867391" lat="42.5695983" lon="-87.8610639" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867392" lat="42.5699981" lon="-87.8661801" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867393" lat="42.5723229" lon="-87.8622189" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867394" lat="42.5669467" lon="-87.8630440" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867395" lat="42.5672263" lon="-87.8621609" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867396" lat="42.5695326" lon="-87.8658439" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867397" lat="42.5680006" lon="-87.8619321" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867398" lat="42.5673968" lon="-87.8621928" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867399" lat="42.5708265" lon="-87.8647329" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867400" lat="42.5696220" lon="-87.8596814" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867401" lat="42.5724536" lon="-87.8579492" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867402" lat="42.5670839" lon="-87.8611031" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867403" lat="42.5691942" lon="-87.8594977" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867404" lat="42.5706603" lon="-87.8634694" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867405" lat="42.5731437" lon="-87.8601953" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867406" lat="42.5692064" lon="-87.8585387" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867407" lat="42.5694598" lon="-87.8633862" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867408" lat="42.5668814" lon="-87.8596660" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867409" lat="42.5694578" lon="-87.8592441" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867410" lat="42.5666859" lon="-87.8611275" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867411" lat="42.5700765" lon="-87.8635727" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331867412" lat="42.5665161" lon="-87.8654366" version="1" timestamp="2019-03-11T21:36:17Z" changeset="68039310" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868845" lat="42.5765096" lon="-87.8700110" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868846" lat="42.5809531" lon="-87.8658402" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868847" lat="42.5740098" lon="-87.8658643" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868848" lat="42.5774772" lon="-87.8672053" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868849" lat="42.5770968" lon="-87.8683429" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868850" lat="42.5805916" lon="-87.8682691" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868851" lat="42.5807678" lon="-87.8680391" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868852" lat="42.5790367" lon="-87.8683639" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868853" lat="42.5749841" lon="-87.8691169" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868854" lat="42.5747073" lon="-87.8681830" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868855" lat="42.5753511" lon="-87.8654761" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868856" lat="42.5801925" lon="-87.8702249" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868857" lat="42.5756385" lon="-87.8693338" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868858" lat="42.5773693" lon="-87.8647981" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868859" lat="42.5794514" lon="-87.8683773" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868860" lat="42.5779184" lon="-87.8667860" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868861" lat="42.5775775" lon="-87.8670137" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868862" lat="42.5782407" lon="-87.8664934" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868863" lat="42.5762168" lon="-87.8682697" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868864" lat="42.5767261" lon="-87.8660888" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868865" lat="42.5785146" lon="-87.8677271" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868866" lat="42.5785382" lon="-87.8678239" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868867" lat="42.5794769" lon="-87.8687539" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868868" lat="42.5765094" lon="-87.8660868" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868869" lat="42.5779920" lon="-87.8666229" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868870" lat="42.5750511" lon="-87.8678116" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868871" lat="42.5764545" lon="-87.8678911" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868872" lat="42.5753398" lon="-87.8677554" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868873" lat="42.5790609" lon="-87.8682124" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868874" lat="42.5743553" lon="-87.8681071" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868875" lat="42.5804190" lon="-87.8648613" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868876" lat="42.5801617" lon="-87.8645531" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868877" lat="42.5758119" lon="-87.8680382" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868878" lat="42.5765535" lon="-87.8646783" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868879" lat="42.5741584" lon="-87.8688441" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868880" lat="42.5753458" lon="-87.8653747" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868881" lat="42.5773934" lon="-87.8698890" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868882" lat="42.5803059" lon="-87.8657865" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868883" lat="42.5794102" lon="-87.8690600" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868884" lat="42.5754521" lon="-87.8691438" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868969" lat="42.5805724" lon="-87.8681306" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868970" lat="42.5790791" lon="-87.8662676" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868971" lat="42.5800363" lon="-87.8695253" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868972" lat="42.5769276" lon="-87.8694422" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868973" lat="42.5774890" lon="-87.8699822" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868974" lat="42.5754963" lon="-87.8694295" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868975" lat="42.5786332" lon="-87.8690940" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868976" lat="42.5769487" lon="-87.8647346" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868977" lat="42.5801917" lon="-87.8693135" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868978" lat="42.5799693" lon="-87.8676440" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868979" lat="42.5799473" lon="-87.8682498" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868980" lat="42.5765071" lon="-87.8665804" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868981" lat="42.5794025" lon="-87.8678559" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868982" lat="42.5786998" lon="-87.8690787" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868983" lat="42.5781966" lon="-87.8700638" version="1" timestamp="2019-03-11T21:39:48Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331868984" lat="42.5743450" lon="-87.8662642" version="1" timestamp="2019-03-11T21:39:49Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869085" lat="42.5770248" lon="-87.8646466" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869086" lat="42.5744686" lon="-87.8680135" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869087" lat="42.5777375" lon="-87.8680287" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869088" lat="42.5779276" lon="-87.8650981" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869089" lat="42.5800651" lon="-87.8681082" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869090" lat="42.5803915" lon="-87.8676671" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869091" lat="42.5806735" lon="-87.8672676" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869092" lat="42.5743681" lon="-87.8677474" version="1" timestamp="2019-03-11T21:39:18Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869093" lat="42.5750929" lon="-87.8680052" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869094" lat="42.5763337" lon="-87.8649023" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869095" lat="42.5803909" lon="-87.8681162" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869096" lat="42.5764551" lon="-87.8670367" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869097" lat="42.5803239" lon="-87.8693496" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869098" lat="42.5809220" lon="-87.8705773" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869099" lat="42.5795304" lon="-87.8680638" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869100" lat="42.5754120" lon="-87.8698759" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869101" lat="42.5738073" lon="-87.8687354" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869102" lat="42.5810015" lon="-87.8677549" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869103" lat="42.5773769" lon="-87.8689245" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869104" lat="42.5746638" lon="-87.8692598" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869105" lat="42.5771093" lon="-87.8650961" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869106" lat="42.5805193" lon="-87.8676702" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869107" lat="42.5779414" lon="-87.8655213" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869108" lat="42.5766656" lon="-87.8683497" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869109" lat="42.5774308" lon="-87.8681789" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869110" lat="42.5806538" lon="-87.8690504" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869111" lat="42.5739015" lon="-87.8655440" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869112" lat="42.5797887" lon="-87.8666978" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869113" lat="42.5783940" lon="-87.8703121" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869114" lat="42.5776062" lon="-87.8656401" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869115" lat="42.5794579" lon="-87.8706324" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869116" lat="42.5807481" lon="-87.8653472" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869117" lat="42.5779698" lon="-87.8669720" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869118" lat="42.5759780" lon="-87.8658443" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869119" lat="42.5775353" lon="-87.8694655" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869120" lat="42.5779966" lon="-87.8661265" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869121" lat="42.5764823" lon="-87.8677124" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869122" lat="42.5804227" lon="-87.8650105" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869123" lat="42.5758779" lon="-87.8689621" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869124" lat="42.5773661" lon="-87.8665085" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869125" lat="42.5781201" lon="-87.8690120" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869126" lat="42.5742031" lon="-87.8666784" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869127" lat="42.5791373" lon="-87.8701334" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869128" lat="42.5800203" lon="-87.8682237" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869129" lat="42.5751905" lon="-87.8664399" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869130" lat="42.5806235" lon="-87.8648465" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869131" lat="42.5807434" lon="-87.8689167" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869132" lat="42.5801309" lon="-87.8677803" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869133" lat="42.5741331" lon="-87.8686549" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869134" lat="42.5748233" lon="-87.8688617" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869135" lat="42.5768101" lon="-87.8703288" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869136" lat="42.5805952" lon="-87.8646570" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869137" lat="42.5755583" lon="-87.8669333" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869138" lat="42.5744156" lon="-87.8654394" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869139" lat="42.5753805" lon="-87.8688085" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869140" lat="42.5792933" lon="-87.8707281" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869141" lat="42.5777969" lon="-87.8644201" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869142" lat="42.5798972" lon="-87.8669938" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869143" lat="42.5738678" lon="-87.8662916" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869144" lat="42.5768967" lon="-87.8675816" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869145" lat="42.5768119" lon="-87.8658024" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869146" lat="42.5755052" lon="-87.8702040" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869147" lat="42.5743980" lon="-87.8682711" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869148" lat="42.5801340" lon="-87.8700280" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869149" lat="42.5789029" lon="-87.8693884" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869150" lat="42.5756634" lon="-87.8670565" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869151" lat="42.5809105" lon="-87.8649937" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869152" lat="42.5748129" lon="-87.8649163" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869153" lat="42.5784388" lon="-87.8689302" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869154" lat="42.5742245" lon="-87.8668929" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869155" lat="42.5764323" lon="-87.8691932" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869156" lat="42.5808076" lon="-87.8657449" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869157" lat="42.5804843" lon="-87.8658512" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869158" lat="42.5769746" lon="-87.8683303" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869159" lat="42.5778343" lon="-87.8664926" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869160" lat="42.5775511" lon="-87.8699438" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869161" lat="42.5795151" lon="-87.8678852" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869162" lat="42.5770254" lon="-87.8698410" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869163" lat="42.5774550" lon="-87.8700364" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869164" lat="42.5743460" lon="-87.8664347" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869165" lat="42.5769768" lon="-87.8691214" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869166" lat="42.5740360" lon="-87.8666778" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869167" lat="42.5776620" lon="-87.8676007" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869168" lat="42.5778428" lon="-87.8691648" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869169" lat="42.5794515" lon="-87.8653746" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869170" lat="42.5763742" lon="-87.8678168" version="1" timestamp="2019-03-11T21:39:19Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869171" lat="42.5771647" lon="-87.8656932" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869172" lat="42.5774455" lon="-87.8667335" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869173" lat="42.5764944" lon="-87.8667765" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869174" lat="42.5786533" lon="-87.8694893" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869175" lat="42.5745374" lon="-87.8687750" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869176" lat="42.5750263" lon="-87.8702782" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869177" lat="42.5803363" lon="-87.8689186" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869178" lat="42.5808302" lon="-87.8660702" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869179" lat="42.5767088" lon="-87.8650715" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869180" lat="42.5749163" lon="-87.8683002" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869181" lat="42.5759126" lon="-87.8706816" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869182" lat="42.5750083" lon="-87.8655700" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869183" lat="42.5785037" lon="-87.8692581" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869184" lat="42.5809777" lon="-87.8683369" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869185" lat="42.5795803" lon="-87.8683713" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869186" lat="42.5783968" lon="-87.8694828" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869187" lat="42.5751343" lon="-87.8667099" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869188" lat="42.5761770" lon="-87.8693626" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869189" lat="42.5802008" lon="-87.8702251" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869190" lat="42.5798245" lon="-87.8670636" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869191" lat="42.5793101" lon="-87.8679473" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869192" lat="42.5738810" lon="-87.8690656" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869193" lat="42.5787493" lon="-87.8701768" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869194" lat="42.5798615" lon="-87.8659608" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869195" lat="42.5763270" lon="-87.8675610" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869196" lat="42.5808863" lon="-87.8669380" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869197" lat="42.5800648" lon="-87.8665306" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869198" lat="42.5790931" lon="-87.8690725" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869199" lat="42.5749567" lon="-87.8702029" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869200" lat="42.5798494" lon="-87.8656114" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869201" lat="42.5741101" lon="-87.8703954" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869202" lat="42.5792581" lon="-87.8680863" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869203" lat="42.5803886" lon="-87.8690070" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869204" lat="42.5765448" lon="-87.8666567" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869205" lat="42.5764716" lon="-87.8706219" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869206" lat="42.5806444" lon="-87.8648853" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869207" lat="42.5802165" lon="-87.8670103" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869208" lat="42.5748411" lon="-87.8668406" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869209" lat="42.5790389" lon="-87.8678543" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869210" lat="42.5752004" lon="-87.8667360" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869211" lat="42.5778206" lon="-87.8672143" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869212" lat="42.5749705" lon="-87.8657830" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869213" lat="42.5759500" lon="-87.8683170" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869214" lat="42.5767453" lon="-87.8699683" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869215" lat="42.5744174" lon="-87.8644435" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869216" lat="42.5738067" lon="-87.8681033" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869217" lat="42.5768900" lon="-87.8650635" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869218" lat="42.5750605" lon="-87.8657542" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869219" lat="42.5740790" lon="-87.8656456" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869220" lat="42.5752168" lon="-87.8659740" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869221" lat="42.5803406" lon="-87.8648413" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869222" lat="42.5806748" lon="-87.8648905" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869223" lat="42.5764486" lon="-87.8681894" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869224" lat="42.5767079" lon="-87.8688901" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869225" lat="42.5802222" lon="-87.8694086" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869226" lat="42.5792817" lon="-87.8704099" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869227" lat="42.5754629" lon="-87.8658885" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869228" lat="42.5758868" lon="-87.8678371" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869229" lat="42.5801056" lon="-87.8690594" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869230" lat="42.5770041" lon="-87.8654883" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869231" lat="42.5759720" lon="-87.8650792" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869232" lat="42.5750985" lon="-87.8670367" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869233" lat="42.5758939" lon="-87.8666128" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869234" lat="42.5763045" lon="-87.8646734" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869235" lat="42.5771637" lon="-87.8669306" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869236" lat="42.5784231" lon="-87.8690348" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869237" lat="42.5771823" lon="-87.8649695" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869238" lat="42.5741499" lon="-87.8676723" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869239" lat="42.5802860" lon="-87.8677646" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869240" lat="42.5768406" lon="-87.8677729" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869241" lat="42.5807594" lon="-87.8646452" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869242" lat="42.5756107" lon="-87.8700115" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869243" lat="42.5795739" lon="-87.8706588" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869244" lat="42.5764809" lon="-87.8659118" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869245" lat="42.5797569" lon="-87.8648773" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869246" lat="42.5810444" lon="-87.8656378" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869247" lat="42.5807697" lon="-87.8672700" version="1" timestamp="2019-03-11T21:39:20Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869248" lat="42.5794028" lon="-87.8680290" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869249" lat="42.5748057" lon="-87.8676580" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869250" lat="42.5792179" lon="-87.8700012" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869251" lat="42.5752157" lon="-87.8671745" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869252" lat="42.5764075" lon="-87.8654811" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869253" lat="42.5767625" lon="-87.8660813" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869254" lat="42.5765911" lon="-87.8693186" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869255" lat="42.5774478" lon="-87.8657873" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869256" lat="42.5806368" lon="-87.8693232" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869257" lat="42.5805228" lon="-87.8656613" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869258" lat="42.5797831" lon="-87.8666802" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869259" lat="42.5770351" lon="-87.8670823" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869260" lat="42.5750421" lon="-87.8645914" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869261" lat="42.5776369" lon="-87.8675965" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869262" lat="42.5762555" lon="-87.8665907" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869263" lat="42.5781209" lon="-87.8666880" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869264" lat="42.5771678" lon="-87.8658063" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869265" lat="42.5755134" lon="-87.8665670" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869266" lat="42.5748369" lon="-87.8654756" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869267" lat="42.5804417" lon="-87.8679622" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869268" lat="42.5777596" lon="-87.8699819" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869269" lat="42.5806176" lon="-87.8665766" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869270" lat="42.5810650" lon="-87.8664886" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869271" lat="42.5758846" lon="-87.8678027" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869272" lat="42.5783054" lon="-87.8678600" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869273" lat="42.5748929" lon="-87.8690442" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869274" lat="42.5755520" lon="-87.8686740" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869275" lat="42.5746520" lon="-87.8677257" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869276" lat="42.5746848" lon="-87.8676549" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869277" lat="42.5802995" lon="-87.8646294" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869278" lat="42.5808982" lon="-87.8701510" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869279" lat="42.5795948" lon="-87.8689702" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869280" lat="42.5810186" lon="-87.8657192" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869281" lat="42.5807395" lon="-87.8692191" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869282" lat="42.5744825" lon="-87.8682900" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869283" lat="42.5769896" lon="-87.8671930" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869284" lat="42.5802505" lon="-87.8689778" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869285" lat="42.5765775" lon="-87.8670031" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869286" lat="42.5754612" lon="-87.8658169" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869287" lat="42.5805123" lon="-87.8667119" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869288" lat="42.5765688" lon="-87.8649075" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869289" lat="42.5757269" lon="-87.8659816" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869290" lat="42.5750392" lon="-87.8692736" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869291" lat="42.5766151" lon="-87.8646247" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869292" lat="42.5791176" lon="-87.8691897" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869293" lat="42.5793539" lon="-87.8676308" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869294" lat="42.5778937" lon="-87.8651012" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869295" lat="42.5774680" lon="-87.8651031" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869296" lat="42.5807223" lon="-87.8683922" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869297" lat="42.5755852" lon="-87.8692793" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869298" lat="42.5800274" lon="-87.8705696" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869299" lat="42.5763092" lon="-87.8702160" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869300" lat="42.5773140" lon="-87.8668148" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869301" lat="42.5743746" lon="-87.8646232" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869302" lat="42.5767855" lon="-87.8647585" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869303" lat="42.5756059" lon="-87.8645387" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869304" lat="42.5741288" lon="-87.8678892" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869305" lat="42.5741876" lon="-87.8681036" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869306" lat="42.5774771" lon="-87.8670983" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869307" lat="42.5751969" lon="-87.8669696" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869308" lat="42.5772634" lon="-87.8679872" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869309" lat="42.5742222" lon="-87.8689187" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869310" lat="42.5770429" lon="-87.8700034" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869311" lat="42.5770206" lon="-87.8658038" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869312" lat="42.5789226" lon="-87.8677824" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869313" lat="42.5778242" lon="-87.8680715" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869314" lat="42.5744437" lon="-87.8668926" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869315" lat="42.5811193" lon="-87.8687551" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869316" lat="42.5773156" lon="-87.8656978" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869317" lat="42.5796175" lon="-87.8695072" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869318" lat="42.5791840" lon="-87.8690736" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869319" lat="42.5772857" lon="-87.8664764" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869320" lat="42.5778542" lon="-87.8657894" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869321" lat="42.5775778" lon="-87.8669173" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869322" lat="42.5802000" lon="-87.8678248" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869323" lat="42.5764861" lon="-87.8705623" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869324" lat="42.5749166" lon="-87.8678329" version="1" timestamp="2019-03-11T21:39:21Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869325" lat="42.5803176" lon="-87.8653775" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869326" lat="42.5777515" lon="-87.8666773" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869327" lat="42.5785150" lon="-87.8676224" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869328" lat="42.5741282" lon="-87.8657744" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869329" lat="42.5758924" lon="-87.8661392" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869330" lat="42.5754870" lon="-87.8660849" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869331" lat="42.5750519" lon="-87.8677244" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869332" lat="42.5764554" lon="-87.8677834" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869333" lat="42.5794744" lon="-87.8681207" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869334" lat="42.5807265" lon="-87.8672484" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869335" lat="42.5764377" lon="-87.8686935" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869336" lat="42.5786290" lon="-87.8679106" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869337" lat="42.5746144" lon="-87.8659688" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869338" lat="42.5777336" lon="-87.8656373" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869339" lat="42.5741591" lon="-87.8687339" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869340" lat="42.5771614" lon="-87.8700356" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869341" lat="42.5793006" lon="-87.8694934" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869342" lat="42.5754524" lon="-87.8690665" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869343" lat="42.5756124" lon="-87.8666952" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869344" lat="42.5770854" lon="-87.8647798" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869345" lat="42.5772691" lon="-87.8683294" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869346" lat="42.5745395" lon="-87.8680109" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869347" lat="42.5778157" lon="-87.8679192" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869348" lat="42.5779311" lon="-87.8649642" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869349" lat="42.5781279" lon="-87.8666099" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869350" lat="42.5775609" lon="-87.8665906" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869351" lat="42.5793658" lon="-87.8700722" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869352" lat="42.5783295" lon="-87.8693832" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869353" lat="42.5769061" lon="-87.8677921" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869354" lat="42.5806277" lon="-87.8687704" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869355" lat="42.5742054" lon="-87.8656567" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869356" lat="42.5784157" lon="-87.8688962" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869357" lat="42.5794917" lon="-87.8668689" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869358" lat="42.5766616" lon="-87.8659080" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869359" lat="42.5774096" lon="-87.8694600" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869360" lat="42.5738024" lon="-87.8681908" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869361" lat="42.5745994" lon="-87.8670191" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869362" lat="42.5749194" lon="-87.8664368" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869363" lat="42.5756005" lon="-87.8686678" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869364" lat="42.5801789" lon="-87.8690933" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869365" lat="42.5738527" lon="-87.8660844" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869366" lat="42.5801138" lon="-87.8656624" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869367" lat="42.5772667" lon="-87.8659509" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="6331869368" lat="42.5738220" lon="-87.8693036" version="1" timestamp="2019-03-11T21:39:22Z" changeset="68039442" uid="9206410" user="WisconsinBuildingImport"/>
+   <node id="231291811" lat="42.5502999" lon="-87.8519225" version="3" timestamp="2011-05-23T04:25:01Z" changeset="8222831" uid="280679" user="Tom Layo">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="231291877" lat="42.5775623" lon="-87.8468436" version="7" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291923" lat="42.5840780" lon="-87.8334457" version="5" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291927" lat="42.5837445" lon="-87.8345995" version="5" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291931" lat="42.5832400" lon="-87.8358808" version="5" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291949" lat="42.5800243" lon="-87.8421028" version="5" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291965" lat="42.5767410" lon="-87.8484250" version="7" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291968" lat="42.5754296" lon="-87.8509518" version="7" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231291971" lat="42.5748929" lon="-87.8519766" version="7" timestamp="2011-06-29T08:06:54Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292000" lat="42.5702497" lon="-87.8609248" version="6" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292007" lat="42.5681988" lon="-87.8648774" version="6" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292039" lat="42.5626555" lon="-87.8755547" version="5" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292043" lat="42.5614531" lon="-87.8778848" version="5" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292048" lat="42.5609117" lon="-87.8790215" version="5" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292061" lat="42.5602086" lon="-87.8808228" version="6" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292065" lat="42.5599785" lon="-87.8815126" version="7" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292068" lat="42.5595981" lon="-87.8828088" version="7" timestamp="2011-06-29T07:46:11Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292073" lat="42.5587725" lon="-87.8856563" version="5" timestamp="2009-09-15T01:08:57Z" changeset="2487666" uid="101842" user="bruck4"/>
+  <node id="231292098" lat="42.5942769" lon="-87.8963032" version="3" timestamp="2011-05-24T12:22:41Z" changeset="8234916" uid="280679" user="Tom Layo"/>
+  <node id="231292104" lat="42.5843619" lon="-87.8976426" version="4" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292114" lat="42.5778180" lon="-87.8977007" version="4" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292147" lat="42.5708155" lon="-87.8977274" version="4" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292174" lat="42.5221200" lon="-87.8980137" version="3" timestamp="2009-09-15T00:54:20Z" changeset="2487666" uid="101842" user="bruck4"/>
+  <node id="231292178" lat="42.5078246" lon="-87.8981017" version="4" timestamp="2013-09-02T07:09:20Z" changeset="17630105" uid="91568" user="noliver"/>
+  <node id="231292182" lat="42.5004740" lon="-87.8981790" version="4" timestamp="2009-09-15T01:20:29Z" changeset="2487666" uid="101842" user="bruck4"/>
+  <node id="231292185" lat="42.4942659" lon="-87.8981705" version="5" timestamp="2009-09-15T01:20:49Z" changeset="2487666" uid="101842" user="bruck4"/>
+  <node id="231292198" lat="42.5747771" lon="-87.8994089" version="4" timestamp="2015-09-26T03:52:30Z" changeset="34255854" uid="522978" user="asdf1234"/>
+  <node id="231292203" lat="42.5699623" lon="-87.8977397" version="4" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292213" lat="42.5660935" lon="-87.8977705" version="5" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292228" lat="42.5649339" lon="-87.8977705" version="5" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292237" lat="42.5638318" lon="-87.8977858" version="4" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292240" lat="42.5627208" lon="-87.8977858" version="4" timestamp="2015-10-20T15:54:10Z" changeset="34758674" uid="522978" user="asdf1234"/>
+  <node id="231292243" lat="42.5584962" lon="-87.8978109" version="5" timestamp="2015-10-20T15:30:18Z" changeset="34758117" uid="522978" user="asdf1234"/>
+  <node id="231292268" lat="42.5951421" lon="-87.8258990" version="4" timestamp="2011-06-29T09:18:33Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292272" lat="42.5958361" lon="-87.8259013" version="4" timestamp="2011-06-29T09:18:33Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292277" lat="42.5976036" lon="-87.8259021" version="4" timestamp="2011-06-29T09:18:33Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292282" lat="42.5986408" lon="-87.8259014" version="5" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292309" lat="42.5795370" lon="-87.8260112" version="6" timestamp="2011-06-29T08:40:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292317" lat="42.5776687" lon="-87.8259282" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292351" lat="42.6599218" lon="-87.8129846" version="3" timestamp="2011-06-27T06:30:43Z" changeset="8558576" uid="383843" user="Gary Cox"/>
+  <node id="231292354" lat="42.6565614" lon="-87.8144982" version="3" timestamp="2011-06-27T06:30:43Z" changeset="8558576" uid="383843" user="Gary Cox"/>
+  <node id="231292365" lat="42.6479101" lon="-87.8183641" version="3" timestamp="2011-06-27T06:30:43Z" changeset="8558576" uid="383843" user="Gary Cox"/>
+  <node id="231292374" lat="42.6463886" lon="-87.8190441" version="4" timestamp="2011-06-29T10:22:59Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292394" lat="42.6426547" lon="-87.8207210" version="3" timestamp="2009-12-11T06:28:36Z" changeset="3346858" uid="21289" user="hogrod"/>
+  <node id="231292404" lat="42.6404291" lon="-87.8217081" version="3" timestamp="2009-12-11T06:28:36Z" changeset="3346858" uid="21289" user="hogrod"/>
+  <node id="231292421" lat="42.6370696" lon="-87.8232139" version="4" timestamp="2011-06-29T10:22:59Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292426" lat="42.6351742" lon="-87.8240615" version="4" timestamp="2011-06-29T10:22:59Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292429" lat="42.6341035" lon="-87.8245419" version="4" timestamp="2011-06-29T10:22:59Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292434" lat="42.6306265" lon="-87.8257879" version="4" timestamp="2011-06-29T10:23:00Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292438" lat="42.6294105" lon="-87.8260602" version="4" timestamp="2011-06-29T10:23:00Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292443" lat="42.6261438" lon="-87.8267892" version="4" timestamp="2011-06-29T10:23:00Z" changeset="8579604" uid="383843" user="Gary Cox"/>
+  <node id="231292448" lat="42.6251409" lon="-87.8270207" version="5" timestamp="2018-06-17T02:48:01Z" changeset="59906045" uid="238419" user="HubMiner"/>
+  <node id="231292452" lat="42.6232322" lon="-87.8274326" version="5" timestamp="2018-06-17T02:48:01Z" changeset="59906045" uid="238419" user="HubMiner"/>
+  <node id="231292456" lat="42.6223047" lon="-87.8275147" version="5" timestamp="2018-06-19T04:02:08Z" changeset="59962899" uid="238419" user="HubMiner"/>
+  <node id="231292460" lat="42.6211916" lon="-87.8274282" version="5" timestamp="2018-06-19T04:02:08Z" changeset="59962899" uid="238419" user="HubMiner"/>
+  <node id="231292468" lat="42.6178786" lon="-87.8265403" version="5" timestamp="2018-06-19T04:02:08Z" changeset="59962899" uid="238419" user="HubMiner"/>
+  <node id="231292472" lat="42.6162388" lon="-87.8261265" version="6" timestamp="2018-06-19T04:02:09Z" changeset="59962899" uid="238419" user="HubMiner"/>
+  <node id="231292498" lat="42.5835926" lon="-87.8260835" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292505" lat="42.5848788" lon="-87.8276859" version="7" timestamp="2020-01-15T20:01:19Z" changeset="79620440" uid="119881" user="clay_c">
+    <tag k="railway" v="switch"/>
+  </node>
+  <node id="231292511" lat="42.5845706" lon="-87.8301471" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292515" lat="42.5844633" lon="-87.8309866" version="4" timestamp="2010-02-08T18:51:03Z" changeset="3825865" uid="108601" user="whammypower788"/>
+  <node id="231292521" lat="42.5843666" lon="-87.8318026" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292529" lat="42.5933667" lon="-87.8259518" version="5" timestamp="2011-06-29T08:54:17Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292545" lat="42.5905472" lon="-87.8259903" version="4" timestamp="2011-06-29T08:42:29Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292549" lat="42.5871543" lon="-87.8260893" version="3" timestamp="2009-12-09T06:32:54Z" changeset="3331167" uid="21289" user="hogrod"/>
+  <node id="231292553" lat="42.5865513" lon="-87.8261529" version="8" timestamp="2011-06-29T08:40:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292562" lat="42.6156353" lon="-87.8260165" version="5" timestamp="2011-06-29T09:45:37Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292568" lat="42.6148772" lon="-87.8259389" version="4" timestamp="2011-06-29T09:45:37Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292572" lat="42.6094258" lon="-87.8259069" version="3" timestamp="2009-12-09T06:32:55Z" changeset="3331167" uid="21289" user="hogrod"/>
+  <node id="231292578" lat="42.6072123" lon="-87.8259090" version="4" timestamp="2011-05-28T14:41:48Z" changeset="8271571" uid="280679" user="Tom Layo"/>
+  <node id="231292587" lat="42.6036928" lon="-87.8259048" version="4" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292594" lat="42.6032793" lon="-87.8259064" version="4" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292599" lat="42.6020876" lon="-87.8259049" version="4" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292601" lat="42.6009647" lon="-87.8258989" version="4" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292604" lat="42.6001467" lon="-87.8259025" version="4" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292607" lat="42.5994980" lon="-87.8259022" version="4" timestamp="2011-06-29T09:14:00Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292615" lat="42.5982460" lon="-87.8259546" version="4" timestamp="2011-06-29T08:54:18Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292666" lat="42.5777390" lon="-87.8258055" version="4" timestamp="2011-05-28T15:41:42Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231292709" lat="42.5594454" lon="-87.8220001" version="4" timestamp="2011-05-23T01:52:16Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231292712" lat="42.5581364" lon="-87.8217052" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292722" lat="42.5554519" lon="-87.8213808" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292730" lat="42.5536599" lon="-87.8211811" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292735" lat="42.5523317" lon="-87.8210352" version="4" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292749" lat="42.5502258" lon="-87.8207974" version="4" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292752" lat="42.5473981" lon="-87.8204824" version="5" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292756" lat="42.5429070" lon="-87.8199774" version="4" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292764" lat="42.5394958" lon="-87.8195045" version="5" timestamp="2011-06-29T08:06:56Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292773" lat="42.5305281" lon="-87.8181599" version="4" timestamp="2011-06-29T08:06:55Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292782" lat="42.5238145" lon="-87.8179000" version="4" timestamp="2011-06-29T08:06:56Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292785" lat="42.5134468" lon="-87.8175064" version="4" timestamp="2011-06-29T08:06:56Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292790" lat="42.4997875" lon="-87.8169392" version="4" timestamp="2011-06-29T08:14:47Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231292875" lat="42.6622667" lon="-87.8857799" version="3" timestamp="2011-06-28T07:22:08Z" changeset="8568818" uid="383843" user="Gary Cox"/>
+  <node id="231292878" lat="42.6593131" lon="-87.8862362" version="3" timestamp="2011-06-28T07:22:08Z" changeset="8568818" uid="383843" user="Gary Cox"/>
+  <node id="231292882" lat="42.6583682" lon="-87.8863822" version="3" timestamp="2011-06-28T07:22:08Z" changeset="8568818" uid="383843" user="Gary Cox"/>
+  <node id="231292900" lat="42.6515280" lon="-87.8874393" version="4" timestamp="2011-06-28T07:22:08Z" changeset="8568818" uid="383843" user="Gary Cox"/>
+  <node id="231292903" lat="42.6439892" lon="-87.8886095" version="3" timestamp="2010-01-26T14:29:56Z" changeset="3719778" uid="220794" user="Cheesehead Dave"/>
+  <node id="231292909" lat="42.6368024" lon="-87.8897291" version="4" timestamp="2015-10-20T16:12:09Z" changeset="34759071" uid="522978" user="asdf1234"/>
+  <node id="231292917" lat="42.6026693" lon="-87.8949824" version="3" timestamp="2010-01-26T14:29:56Z" changeset="3719778" uid="220794" user="Cheesehead Dave"/>
+  <node id="231292945" lat="42.5785918" lon="-87.8271254" version="5" timestamp="2011-05-28T15:41:35Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231292952" lat="42.5785847" lon="-87.8283187" version="6" timestamp="2014-08-03T03:36:32Z" changeset="24508333" uid="91568" user="noliver"/>
+  <node id="231292956" lat="42.5785817" lon="-87.8296451" version="5" timestamp="2014-08-03T03:36:32Z" changeset="24508333" uid="91568" user="noliver"/>
+  <node id="231292960" lat="42.5785815" lon="-87.8309829" version="5" timestamp="2011-05-28T15:41:35Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231292966" lat="42.5785662" lon="-87.8325621" version="6" timestamp="2014-08-03T03:36:32Z" changeset="24508333" uid="91568" user="noliver"/>
+  <node id="231292970" lat="42.5785648" lon="-87.8334151" version="4" timestamp="2010-11-10T01:59:32Z" changeset="6333013" uid="21289" user="hogrod"/>
+  <node id="231292974" lat="42.5785417" lon="-87.8355668" version="6" timestamp="2017-01-14T03:50:58Z" changeset="45153034" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231292984" lat="42.5787450" lon="-87.8529654" version="4" timestamp="2011-05-28T13:25:03Z" changeset="8271571" uid="280679" user="Tom Layo"/>
+  <node id="231292988" lat="42.5787620" lon="-87.8541261" version="3" timestamp="2010-11-16T16:26:41Z" changeset="6386164" uid="21289" user="hogrod"/>
+  <node id="231292997" lat="42.5787768" lon="-87.8193160" version="5" timestamp="2014-10-23T00:41:17Z" changeset="26268750" uid="502142" user="Mulad"/>
+  <node id="231293002" lat="42.5786577" lon="-87.8226766" version="5" timestamp="2014-10-23T00:41:17Z" changeset="26268750" uid="502142" user="Mulad"/>
+  <node id="231293006" lat="42.5786310" lon="-87.8249815" version="4" timestamp="2011-05-28T15:41:35Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293038" lat="42.5789050" lon="-87.8727866" version="3" timestamp="2011-05-22T11:31:36Z" changeset="8214937" uid="280679" user="Tom Layo"/>
+  <node id="231293041" lat="42.5789717" lon="-87.8739528" version="3" timestamp="2011-05-22T11:31:36Z" changeset="8214937" uid="280679" user="Tom Layo"/>
+  <node id="231293131" lat="42.5427741" lon="-87.9714654" version="5" timestamp="2020-02-25T04:34:55Z" changeset="81433657" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293134" lat="42.5427543" lon="-87.9733808" version="4" timestamp="2015-10-04T11:52:15Z" changeset="34425840" uid="522978" user="asdf1234">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="231293209" lat="42.5413036" lon="-87.8189542" version="3" timestamp="2011-05-23T02:24:42Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293218" lat="42.5409241" lon="-87.8190460" version="4" timestamp="2011-06-29T08:06:53Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231293222" lat="42.5402411" lon="-87.8205013" version="3" timestamp="2011-05-23T02:24:42Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293231" lat="42.5402284" lon="-87.8283194" version="4" timestamp="2014-07-08T14:44:13Z" changeset="24027080" uid="360392" user="maxerickson"/>
+  <node id="231293242" lat="42.5402884" lon="-87.8345812" version="3" timestamp="2010-11-16T15:50:23Z" changeset="6385919" uid="21289" user="hogrod"/>
+  <node id="231293247" lat="42.5402489" lon="-87.8365611" version="4" timestamp="2020-06-01T04:00:12Z" changeset="86027543" uid="10271421" user="karragha"/>
+  <node id="231293252" lat="42.5402344" lon="-87.8386660" version="4" timestamp="2011-05-23T04:24:59Z" changeset="8222831" uid="280679" user="Tom Layo"/>
+  <node id="231293262" lat="42.5411793" lon="-87.8544050" version="5" timestamp="2021-06-27T03:19:40Z" changeset="107021280" uid="13589130" user="red robin"/>
+  <node id="231293266" lat="42.5412170" lon="-87.8571835" version="4" timestamp="2014-08-01T03:42:31Z" changeset="24474297" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293440" lat="42.5530809" lon="-87.8318119" version="3" timestamp="2011-05-23T02:14:25Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293444" lat="42.5520812" lon="-87.8317205" version="3" timestamp="2011-05-23T02:14:25Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293449" lat="42.5513001" lon="-87.8316899" version="3" timestamp="2011-05-23T02:24:43Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293452" lat="42.5496874" lon="-87.8314567" version="4" timestamp="2015-07-03T22:00:52Z" changeset="32399885" uid="2748195" user="karitotp">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="231293456" lat="42.5495210" lon="-87.8307915" version="3" timestamp="2011-05-23T04:04:06Z" changeset="8222831" uid="280679" user="Tom Layo"/>
+  <node id="231293469" lat="42.5659126" lon="-87.8317527" version="5" timestamp="2016-04-07T01:20:48Z" changeset="38366990" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293477" lat="42.5642549" lon="-87.8317103" version="4" timestamp="2016-04-07T01:20:48Z" changeset="38366990" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293480" lat="42.5622478" lon="-87.8316684" version="4" timestamp="2014-08-01T16:13:41Z" changeset="24484293" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293486" lat="42.5604107" lon="-87.8316368" version="3" timestamp="2011-05-23T01:52:15Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293492" lat="42.5585824" lon="-87.8315666" version="4" timestamp="2011-05-28T16:40:28Z" changeset="8273541" uid="280679" user="Tom Layo"/>
+  <node id="231293498" lat="42.5576063" lon="-87.8315756" version="4" timestamp="2011-05-23T02:14:25Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293502" lat="42.5567004" lon="-87.8315807" version="3" timestamp="2011-05-23T02:14:25Z" changeset="8222545" uid="280679" user="Tom Layo"/>
+  <node id="231293508" lat="42.6315212" lon="-87.8323831" version="3" timestamp="2009-08-20T18:27:03Z" changeset="2214759" uid="147510" user="woodpeck_fixbot"/>
+  <node id="231293514" lat="42.6296485" lon="-87.8324363" version="4" timestamp="2017-01-15T18:10:39Z" changeset="45196412" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293518" lat="42.6294328" lon="-87.8327731" version="4" timestamp="2017-01-15T18:10:39Z" changeset="45196412" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293528" lat="42.6279539" lon="-87.8322920" version="4" timestamp="2009-12-11T05:28:40Z" changeset="3346725" uid="21289" user="hogrod"/>
+  <node id="231293532" lat="42.6270224" lon="-87.8322920" version="6" timestamp="2009-12-11T05:28:40Z" changeset="3346725" uid="21289" user="hogrod"/>
+  <node id="231293535" lat="42.6242436" lon="-87.8327319" version="6" timestamp="2009-12-11T05:28:41Z" changeset="3346725" uid="21289" user="hogrod"/>
+  <node id="231293538" lat="42.6235606" lon="-87.8327072" version="4" timestamp="2009-09-16T21:31:01Z" changeset="2506778" uid="173222" user="mattbierner"/>
+  <node id="231293544" lat="42.6215459" lon="-87.8326852" version="4" timestamp="2009-09-16T21:31:01Z" changeset="2506778" uid="173222" user="mattbierner"/>
+  <node id="231293548" lat="42.6191121" lon="-87.8326820" version="5" timestamp="2015-05-20T18:33:55Z" changeset="31323249" uid="2748195" user="karitotp"/>
+  <node id="231293553" lat="42.6183156" lon="-87.8326833" version="6" timestamp="2015-05-20T18:33:55Z" changeset="31323249" uid="2748195" user="karitotp"/>
+  <node id="231293557" lat="42.6175083" lon="-87.8326809" version="5" timestamp="2017-01-15T21:05:21Z" changeset="45199660" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293562" lat="42.6167171" lon="-87.8326593" version="5" timestamp="2009-12-11T04:53:00Z" changeset="3346587" uid="21289" user="hogrod"/>
+  <node id="231293566" lat="42.6159058" lon="-87.8326494" version="6" timestamp="2017-01-15T21:05:21Z" changeset="45199660" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293568" lat="42.6150257" lon="-87.8326436" version="6" timestamp="2017-01-15T21:05:21Z" changeset="45199660" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293573" lat="42.6142477" lon="-87.8326321" version="5" timestamp="2017-01-15T21:05:21Z" changeset="45199660" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293578" lat="42.6133931" lon="-87.8326271" version="6" timestamp="2009-12-11T05:17:28Z" changeset="3346642" uid="21289" user="hogrod"/>
+  <node id="231293583" lat="42.6124456" lon="-87.8326164" version="5" timestamp="2009-12-11T04:41:53Z" changeset="3346587" uid="21289" user="hogrod"/>
+  <node id="231293588" lat="42.6115060" lon="-87.8326057" version="4" timestamp="2009-12-11T04:37:02Z" changeset="3346587" uid="21289" user="hogrod"/>
+  <node id="231293592" lat="42.6105663" lon="-87.8326057" version="5" timestamp="2009-12-11T04:37:01Z" changeset="3346587" uid="21289" user="hogrod"/>
+  <node id="231293597" lat="42.6096271" lon="-87.8325592" version="6" timestamp="2009-12-11T03:47:49Z" changeset="3346498" uid="21289" user="hogrod"/>
+  <node id="231293602" lat="42.6087754" lon="-87.8325365" version="6" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293606" lat="42.6070683" lon="-87.8325506" version="6" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293611" lat="42.6061968" lon="-87.8325496" version="6" timestamp="2017-01-15T22:18:45Z" changeset="45201203" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293616" lat="42.6051741" lon="-87.8325472" version="6" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293620" lat="42.6042793" lon="-87.8325257" version="5" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293625" lat="42.6033758" lon="-87.8325112" version="5" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293630" lat="42.6024643" lon="-87.8325576" version="6" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293634" lat="42.6015641" lon="-87.8325576" version="6" timestamp="2019-01-17T22:11:31Z" changeset="66409286" uid="5778126" user="jdcarls2"/>
+  <node id="231293638" lat="42.6004427" lon="-87.8325254" version="5" timestamp="2009-12-09T09:11:26Z" changeset="3331955" uid="21289" user="hogrod"/>
+  <node id="231293671" lat="42.5731700" lon="-87.8320518" version="5" timestamp="2019-03-13T14:45:58Z" changeset="68102491" uid="9206410" user="WisconsinBuildingImport"/>
+  <node id="231293682" lat="42.5879763" lon="-87.8320904" version="4" timestamp="2011-05-28T14:56:20Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293686" lat="42.5861715" lon="-87.8320547" version="4" timestamp="2016-04-07T02:48:16Z" changeset="38368003" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293689" lat="42.5850200" lon="-87.8320387" version="4" timestamp="2011-05-28T14:56:20Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293694" lat="42.5848500" lon="-87.8320448" version="4" timestamp="2011-05-28T14:56:21Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293702" lat="42.5835970" lon="-87.8320193" version="4" timestamp="2011-06-29T08:06:53Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231293708" lat="42.5826182" lon="-87.8320126" version="4" timestamp="2011-05-28T14:56:21Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293712" lat="42.5817737" lon="-87.8320054" version="4" timestamp="2011-05-28T14:56:21Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293725" lat="42.5970279" lon="-87.8326967" version="6" timestamp="2016-04-07T01:57:13Z" changeset="38367328" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293729" lat="42.5948585" lon="-87.8326588" version="4" timestamp="2016-04-07T01:57:13Z" changeset="38367328" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293748" lat="42.5948641" lon="-87.8323465" version="4" timestamp="2016-04-07T01:57:13Z" changeset="38367328" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293751" lat="42.5927008" lon="-87.8322995" version="3" timestamp="2009-12-09T11:02:40Z" changeset="3332590" uid="21289" user="hogrod"/>
+  <node id="231293754" lat="42.5908529" lon="-87.8323147" version="6" timestamp="2011-05-28T14:56:21Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293758" lat="42.5894826" lon="-87.8323109" version="4" timestamp="2011-05-28T14:56:21Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293764" lat="42.5879799" lon="-87.8322693" version="4" timestamp="2016-04-07T01:40:52Z" changeset="38367158" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293773" lat="42.5794200" lon="-87.8326082" version="5" timestamp="2014-08-03T03:36:32Z" changeset="24508333" uid="91568" user="noliver"/>
+  <node id="231293783" lat="42.5799674" lon="-87.8321536" version="3" timestamp="2010-11-10T05:13:16Z" changeset="6333270" uid="21289" user="hogrod"/>
+  <node id="231293791" lat="42.5867696" lon="-87.8724040" version="3" timestamp="2010-01-21T14:42:45Z" changeset="3675193" uid="220794" user="Cheesehead Dave"/>
+  <node id="231293794" lat="42.5861081" lon="-87.8737826" version="4" timestamp="2017-01-14T23:48:44Z" changeset="45177383" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293803" lat="42.5862081" lon="-87.8270253" version="3" timestamp="2010-11-10T05:03:18Z" changeset="6333270" uid="21289" user="hogrod"/>
+  <node id="231293807" lat="42.5862091" lon="-87.8279930" version="4" timestamp="2011-06-29T08:06:53Z" changeset="8578382" uid="383843" user="Gary Cox"/>
+  <node id="231293812" lat="42.5862081" lon="-87.8291603" version="3" timestamp="2010-11-10T05:03:10Z" changeset="6333270" uid="21289" user="hogrod"/>
+  <node id="231293813" lat="42.5861528" lon="-87.8334840" version="3" timestamp="2010-11-10T05:03:09Z" changeset="6333270" uid="21289" user="hogrod"/>
+  <node id="231293817" lat="42.5861449" lon="-87.8345891" version="3" timestamp="2010-11-10T05:03:18Z" changeset="6333270" uid="21289" user="hogrod"/>
+  <node id="231293823" lat="42.5861362" lon="-87.8357023" version="6" timestamp="2011-05-28T14:56:21Z" changeset="8272553" uid="280679" user="Tom Layo"/>
+  <node id="231293827" lat="42.5861133" lon="-87.8369239" version="5" timestamp="2016-04-07T01:32:54Z" changeset="38367100" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293831" lat="42.5860975" lon="-87.8381403" version="3" timestamp="2010-11-10T05:02:54Z" changeset="6333270" uid="21289" user="hogrod"/>
+  <node id="231293836" lat="42.5860915" lon="-87.8393338" version="4" timestamp="2016-04-07T01:32:54Z" changeset="38367100" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231293842" lat="42.5860924" lon="-87.8399529" version="5" timestamp="2016-04-07T01:32:54Z" changeset="38367100" uid="1743198" user="MidwestMapGeek">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="231293852" lat="42.5857018" lon="-87.8212685" version="5" timestamp="2015-07-11T15:59:07Z" changeset="32566604" uid="1476146" user="Alecs01"/>
+  <node id="231293876" lat="42.5863071" lon="-87.8238108" version="5" timestamp="2014-10-22T03:10:20Z" changeset="26247326" uid="502142" user="Mulad"/>
+  <node id="231293880" lat="42.5860949" lon="-87.8255711" version="6" timestamp="2014-10-22T03:10:20Z" changeset="26247326" uid="502142" user="Mulad"/>
+  <node id="231293906" lat="42.5046816" lon="-88.0664865" version="3" timestamp="2011-07-28T03:40:31Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293910" lat="42.5047908" lon="-88.0664890" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293916" lat="42.5048897" lon="-88.0664351" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293919" lat="42.5052124" lon="-88.0660466" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293922" lat="42.5053493" lon="-88.0658178" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293928" lat="42.5054273" lon="-88.0658027" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293930" lat="42.5056042" lon="-88.0657117" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293934" lat="42.5058817" lon="-88.0656380" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293937" lat="42.5060915" lon="-88.0655280" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293948" lat="42.5062018" lon="-88.0655138" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293950" lat="42.5064521" lon="-88.0654225" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293954" lat="42.5065977" lon="-88.0653459" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293958" lat="42.5067548" lon="-88.0651829" version="3" timestamp="2011-07-28T03:40:32Z" changeset="8850702" uid="280679" user="Tom Layo"/>
+  <node id="231293967" lat="42.5083221" lon="-88.0649402" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231293971" lat="42.5085009" lon="-88.0652671" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231293976" lat="42.5086414" lon="-88.0656067" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231293979" lat="42.5087282" lon="-88.0659052" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231293984" lat="42.5089133" lon="-88.0661506" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231293989" lat="42.5091025" lon="-88.0662523" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231293994" lat="42.5093645" lon="-88.0662507" version="3" timestamp="2011-07-28T01:59:55Z" changeset="8850527" uid="280679" user="Tom Layo"/>
+  <node id="231294007" lat="42.5599663" lon="-88.0665781" version="4" timestamp="2016-05-14T19:56:38Z" changeset="39319097" uid="522978" user="asdf1234"/>
+  <node id="231294010" lat="42.5595806" lon="-88.0665802" version="4" timestamp="2016-05-14T19:56:38Z" changeset="39319097" uid="522978" user="asdf1234"/>
+  <node id="231294015" lat="42.5589856" lon="-88.0670158" version="4" timestamp="2016-05-14T19:56:38Z" changeset="39319097" uid="522978" user="asdf1234"/>
+  <node id="231294018" lat="42.5574654" lon="-88.0671493" version="5" timestamp="2016-05-14T19:56:38Z" changeset="39319097" uid="522978" user="asdf1234">
+    <tag k="highway" v="turning_circle"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="231294104" lat="42.5033479" lon="-88.0885521" version="3" timestamp="2011-07-27T05:05:18Z" changeset="8841611" uid="280679" user="Tom Layo"/>
+  <node id="231294119" lat="42.6120377" lon="-88.0901769" version="4" timestamp="2016-06-04T03:28:33Z" changeset="39790805" uid="522978" user="asdf1234"/>
+  <node id="231294121" lat="42.5974444" lon="-88.0899926" version="3" timestamp="2013-10-19T16:20:48Z" changeset="18436541" uid="1704100" user="FightingIrish1"/>
+  <node id="231294145" lat="42.5776163" lon="-87.8455016" version="3" timestamp="2010-05-15T21:07:14Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294148" lat="42.5759375" lon="-87.8454802" version="3" timestamp="2010-05-15T21:07:42Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294152" lat="42.5745887" lon="-87.8454407" version="4" timestamp="2011-05-28T13:48:17Z" changeset="8271571" uid="280679" user="Tom Layo"/>
+  <node id="231294157" lat="42.5741835" lon="-87.8454265" version="3" timestamp="2010-05-15T21:07:43Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294162" lat="42.5733619" lon="-87.8454051" version="3" timestamp="2010-05-15T21:07:43Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294166" lat="42.5718133" lon="-87.8453622" version="7" timestamp="2014-08-03T03:36:32Z" changeset="24508333" uid="91568" user="noliver">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="231294175" lat="42.5701082" lon="-87.8453337" version="4" timestamp="2016-04-08T04:37:34Z" changeset="38396671" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294180" lat="42.5690678" lon="-87.8453023" version="4" timestamp="2016-04-08T04:37:34Z" changeset="38396671" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294184" lat="42.5689134" lon="-87.8452962" version="6" timestamp="2016-04-08T04:37:34Z" changeset="38396671" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294192" lat="42.5680338" lon="-87.8452830" version="4" timestamp="2016-04-08T04:37:34Z" changeset="38396671" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294195" lat="42.5671236" lon="-87.8452632" version="5" timestamp="2016-04-08T04:37:34Z" changeset="38396671" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294199" lat="42.5660512" lon="-87.8452319" version="7" timestamp="2016-04-07T01:20:47Z" changeset="38366990" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294205" lat="42.5643582" lon="-87.8451959" version="3" timestamp="2010-05-15T21:07:44Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294209" lat="42.5627027" lon="-87.8451476" version="3" timestamp="2010-05-15T21:07:44Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294213" lat="42.5610551" lon="-87.8451154" version="4" timestamp="2010-11-09T11:41:18Z" changeset="6327305" uid="21289" user="hogrod"/>
+  <node id="231294218" lat="42.5588155" lon="-87.8450816" version="6" timestamp="2020-11-05T07:09:13Z" changeset="93582767" uid="12118083" user="jdanielp">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="both"/>
+  </node>
+  <node id="231294222" lat="42.5570682" lon="-87.8449223" version="3" timestamp="2010-05-15T21:07:45Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294226" lat="42.5554915" lon="-87.8444663" version="3" timestamp="2010-05-15T21:07:45Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294232" lat="42.5515092" lon="-87.8443831" version="5" timestamp="2011-05-22T11:23:46Z" changeset="8214937" uid="280679" user="Tom Layo"/>
+  <node id="231294236" lat="42.5497536" lon="-87.8444288" version="3" timestamp="2010-05-15T21:05:54Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294240" lat="42.5491687" lon="-87.8444234" version="3" timestamp="2010-05-15T21:05:54Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294245" lat="42.5469635" lon="-87.8444556" version="3" timestamp="2010-05-15T21:05:54Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294253" lat="42.5442167" lon="-87.8444663" version="3" timestamp="2010-05-15T21:05:55Z" changeset="4709612" uid="207745" user="NE2"/>
+  <node id="231294274" lat="42.5386744" lon="-87.8447396" version="3" timestamp="2011-05-23T04:25:02Z" changeset="8222831" uid="280679" user="Tom Layo"/>
+  <node id="231294310" lat="42.5541933" lon="-87.8877154" version="4" timestamp="2017-01-14T22:37:43Z" changeset="45174950" uid="1743198" user="MidwestMapGeek"/>
+  <node id="231294319" lat="42.5533677" lon="-87.8873424" version="3" timestamp="2011-05-22T11:16:05Z" changeset="8214937" uid="280679" user="Tom Layo"/>
+  <node id="231294362" lat="42.6096943" lon="-87.8255207" version="4" timestamp="2009-12-09T06:32:30Z" changeset="3331167" uid="21289" user="hogrod"/>
+  <node id="231294367" lat="42.6096820" lon="-87.8274344" version="7" timestamp="2009-12-11T04:52:59Z" changeset="3346587" uid="21289" user="hogrod"/>
+  <node id="231294369" lat="42.6096101" lon="-87.8311062" version="5" timestamp="2009-12-09T06:40:10Z" changeset="3331232" uid="21289" user="hogrod"/>
+  <way id="658921310" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377506"/>
+    <nd ref="6169377505"/>
+    <nd ref="6169377504"/>
+    <nd ref="6169377503"/>
+    <nd ref="6169377502"/>
+    <nd ref="6169377501"/>
+    <nd ref="6169377500"/>
+    <nd ref="6169377499"/>
+    <nd ref="6169377498"/>
+    <nd ref="6169377497"/>
+    <nd ref="6169377496"/>
+    <nd ref="6169377495"/>
+    <nd ref="6169377494"/>
+    <nd ref="6169377493"/>
+    <nd ref="6169377492"/>
+    <nd ref="6169377491"/>
+    <nd ref="6169377490"/>
+    <nd ref="6169377489"/>
+    <nd ref="6169377488"/>
+    <nd ref="6169377487"/>
+    <nd ref="6169377486"/>
+    <nd ref="6169377506"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921311" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377516"/>
+    <nd ref="6169377514"/>
+    <nd ref="6169377508"/>
+    <nd ref="6169377507"/>
+    <nd ref="6169377509"/>
+    <nd ref="6169377510"/>
+    <nd ref="6169377511"/>
+    <nd ref="6169377512"/>
+    <nd ref="6169377513"/>
+    <nd ref="6169377515"/>
+    <nd ref="6169377516"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921312" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377520"/>
+    <nd ref="6169377518"/>
+    <nd ref="6169377517"/>
+    <nd ref="6169377519"/>
+    <nd ref="6169377520"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921313" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377524"/>
+    <nd ref="6169377522"/>
+    <nd ref="6169377521"/>
+    <nd ref="6169377523"/>
+    <nd ref="6169377524"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921314" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377528"/>
+    <nd ref="6169377527"/>
+    <nd ref="6169377526"/>
+    <nd ref="6169377525"/>
+    <nd ref="6169377528"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921315" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377533"/>
+    <nd ref="6169377532"/>
+    <nd ref="6169377531"/>
+    <nd ref="6169377530"/>
+    <nd ref="6169377529"/>
+    <nd ref="6169377533"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921316" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377537"/>
+    <nd ref="6169377535"/>
+    <nd ref="6169377534"/>
+    <nd ref="6169377536"/>
+    <nd ref="6169377537"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921317" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377541"/>
+    <nd ref="6169377539"/>
+    <nd ref="6169377538"/>
+    <nd ref="6169377540"/>
+    <nd ref="6169377541"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921318" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377545"/>
+    <nd ref="6169377543"/>
+    <nd ref="6169377542"/>
+    <nd ref="6169377544"/>
+    <nd ref="6169377545"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921319" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377549"/>
+    <nd ref="6169377547"/>
+    <nd ref="6169377546"/>
+    <nd ref="6169377548"/>
+    <nd ref="6169377549"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921320" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377553"/>
+    <nd ref="6169377551"/>
+    <nd ref="6169377550"/>
+    <nd ref="6169377552"/>
+    <nd ref="6169377553"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921321" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377557"/>
+    <nd ref="6169377555"/>
+    <nd ref="6169377554"/>
+    <nd ref="6169377556"/>
+    <nd ref="6169377557"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921322" version="1" timestamp="2018-12-28T22:04:41Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377561"/>
+    <nd ref="6169377559"/>
+    <nd ref="6169377558"/>
+    <nd ref="6169377560"/>
+    <nd ref="6169377561"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921323" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377565"/>
+    <nd ref="6169377563"/>
+    <nd ref="6169377562"/>
+    <nd ref="6169377564"/>
+    <nd ref="6169377565"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921324" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377569"/>
+    <nd ref="6169377567"/>
+    <nd ref="6169377566"/>
+    <nd ref="6169377568"/>
+    <nd ref="6169377569"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921325" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377573"/>
+    <nd ref="6169377571"/>
+    <nd ref="6169377570"/>
+    <nd ref="6169377572"/>
+    <nd ref="6169377573"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921326" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377577"/>
+    <nd ref="6169377575"/>
+    <nd ref="6169377574"/>
+    <nd ref="6169377576"/>
+    <nd ref="6169377577"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921327" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377581"/>
+    <nd ref="6169377579"/>
+    <nd ref="6169377578"/>
+    <nd ref="6169377580"/>
+    <nd ref="6169377581"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921328" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377585"/>
+    <nd ref="6169377583"/>
+    <nd ref="6169377582"/>
+    <nd ref="6169377584"/>
+    <nd ref="6169377585"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921329" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377589"/>
+    <nd ref="6169377587"/>
+    <nd ref="6169377586"/>
+    <nd ref="6169377588"/>
+    <nd ref="6169377589"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921330" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377593"/>
+    <nd ref="6169377591"/>
+    <nd ref="6169377590"/>
+    <nd ref="6169377592"/>
+    <nd ref="6169377593"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921331" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377597"/>
+    <nd ref="6169377595"/>
+    <nd ref="6169377594"/>
+    <nd ref="6169377596"/>
+    <nd ref="6169377597"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921332" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377601"/>
+    <nd ref="6169377599"/>
+    <nd ref="6169377598"/>
+    <nd ref="6169377600"/>
+    <nd ref="6169377601"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921333" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377605"/>
+    <nd ref="6169377603"/>
+    <nd ref="6169377602"/>
+    <nd ref="6169377604"/>
+    <nd ref="6169377605"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921334" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377609"/>
+    <nd ref="6169377607"/>
+    <nd ref="6169377606"/>
+    <nd ref="6169377608"/>
+    <nd ref="6169377609"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921335" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377613"/>
+    <nd ref="6169377611"/>
+    <nd ref="6169377610"/>
+    <nd ref="6169377612"/>
+    <nd ref="6169377613"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921336" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377617"/>
+    <nd ref="6169377615"/>
+    <nd ref="6169377614"/>
+    <nd ref="6169377616"/>
+    <nd ref="6169377617"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921337" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377621"/>
+    <nd ref="6169377619"/>
+    <nd ref="6169377618"/>
+    <nd ref="6169377620"/>
+    <nd ref="6169377621"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921338" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377625"/>
+    <nd ref="6169377623"/>
+    <nd ref="6169377622"/>
+    <nd ref="6169377624"/>
+    <nd ref="6169377625"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921339" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377629"/>
+    <nd ref="6169377628"/>
+    <nd ref="6169377627"/>
+    <nd ref="6169377626"/>
+    <nd ref="6169377629"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921340" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377633"/>
+    <nd ref="6169377632"/>
+    <nd ref="6169377631"/>
+    <nd ref="6169377630"/>
+    <nd ref="6169377633"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921341" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377637"/>
+    <nd ref="6169377636"/>
+    <nd ref="6169377635"/>
+    <nd ref="6169377634"/>
+    <nd ref="6169377637"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921342" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377641"/>
+    <nd ref="6169377640"/>
+    <nd ref="6169377639"/>
+    <nd ref="6169377638"/>
+    <nd ref="6169377641"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921343" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377645"/>
+    <nd ref="6169377644"/>
+    <nd ref="6169377643"/>
+    <nd ref="6169377642"/>
+    <nd ref="6169377645"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921344" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377649"/>
+    <nd ref="6169377646"/>
+    <nd ref="6169377648"/>
+    <nd ref="6169377647"/>
+    <nd ref="6169377649"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921345" version="1" timestamp="2018-12-28T22:04:42Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377653"/>
+    <nd ref="6169377652"/>
+    <nd ref="6169377651"/>
+    <nd ref="6169377650"/>
+    <nd ref="6169377653"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921346" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377658"/>
+    <nd ref="6169377657"/>
+    <nd ref="6169377656"/>
+    <nd ref="6169377655"/>
+    <nd ref="6169377654"/>
+    <nd ref="6169377658"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921347" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377662"/>
+    <nd ref="6169377661"/>
+    <nd ref="6169377660"/>
+    <nd ref="6169377659"/>
+    <nd ref="6169377662"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921348" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377688"/>
+    <nd ref="6169377687"/>
+    <nd ref="6169377686"/>
+    <nd ref="6169377685"/>
+    <nd ref="6169377684"/>
+    <nd ref="6169377683"/>
+    <nd ref="6169377682"/>
+    <nd ref="6169377681"/>
+    <nd ref="6169377680"/>
+    <nd ref="6169377679"/>
+    <nd ref="6169377678"/>
+    <nd ref="6169377677"/>
+    <nd ref="6169377676"/>
+    <nd ref="6169377675"/>
+    <nd ref="6169377674"/>
+    <nd ref="6169377673"/>
+    <nd ref="6169377672"/>
+    <nd ref="6169377671"/>
+    <nd ref="6169377670"/>
+    <nd ref="6169377669"/>
+    <nd ref="6169377668"/>
+    <nd ref="6169377667"/>
+    <nd ref="6169377666"/>
+    <nd ref="6169377665"/>
+    <nd ref="6169377664"/>
+    <nd ref="6169377663"/>
+    <nd ref="6169377688"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921349" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377716"/>
+    <nd ref="6169377715"/>
+    <nd ref="6169377714"/>
+    <nd ref="6169377713"/>
+    <nd ref="6169377712"/>
+    <nd ref="6169377711"/>
+    <nd ref="6169377710"/>
+    <nd ref="6169377709"/>
+    <nd ref="6169377708"/>
+    <nd ref="6169377707"/>
+    <nd ref="6169377706"/>
+    <nd ref="6169377705"/>
+    <nd ref="6169377704"/>
+    <nd ref="6169377703"/>
+    <nd ref="6169377702"/>
+    <nd ref="6169377701"/>
+    <nd ref="6169377700"/>
+    <nd ref="6169377699"/>
+    <nd ref="6169377698"/>
+    <nd ref="6169377697"/>
+    <nd ref="6169377696"/>
+    <nd ref="6169377695"/>
+    <nd ref="6169377694"/>
+    <nd ref="6169377693"/>
+    <nd ref="6169377692"/>
+    <nd ref="6169377691"/>
+    <nd ref="6169377690"/>
+    <nd ref="6169377689"/>
+    <nd ref="6169377716"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921350" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377738"/>
+    <nd ref="6169377737"/>
+    <nd ref="6169377736"/>
+    <nd ref="6169377735"/>
+    <nd ref="6169377734"/>
+    <nd ref="6169377733"/>
+    <nd ref="6169377732"/>
+    <nd ref="6169377731"/>
+    <nd ref="6169377730"/>
+    <nd ref="6169377729"/>
+    <nd ref="6169377726"/>
+    <nd ref="6169377728"/>
+    <nd ref="6169377725"/>
+    <nd ref="6169377724"/>
+    <nd ref="6169377727"/>
+    <nd ref="6169377723"/>
+    <nd ref="6169377722"/>
+    <nd ref="6169377721"/>
+    <nd ref="6169377720"/>
+    <nd ref="6169377719"/>
+    <nd ref="6169377718"/>
+    <nd ref="6169377717"/>
+    <nd ref="6169377738"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921351" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377769"/>
+    <nd ref="6169377768"/>
+    <nd ref="6169377767"/>
+    <nd ref="6169377766"/>
+    <nd ref="6169377765"/>
+    <nd ref="6169377764"/>
+    <nd ref="6169377763"/>
+    <nd ref="6169377762"/>
+    <nd ref="6169377761"/>
+    <nd ref="6169377760"/>
+    <nd ref="6169377759"/>
+    <nd ref="6169377758"/>
+    <nd ref="6169377757"/>
+    <nd ref="6169377756"/>
+    <nd ref="6169377755"/>
+    <nd ref="6169377754"/>
+    <nd ref="6169377753"/>
+    <nd ref="6169377752"/>
+    <nd ref="6169377751"/>
+    <nd ref="6169377750"/>
+    <nd ref="6169377749"/>
+    <nd ref="6169377748"/>
+    <nd ref="6169377747"/>
+    <nd ref="6169377746"/>
+    <nd ref="6169377745"/>
+    <nd ref="6169377744"/>
+    <nd ref="6169377743"/>
+    <nd ref="6169377742"/>
+    <nd ref="6169377741"/>
+    <nd ref="6169377740"/>
+    <nd ref="6169377739"/>
+    <nd ref="6169377769"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921352" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377786"/>
+    <nd ref="6169377785"/>
+    <nd ref="6169377784"/>
+    <nd ref="6169377782"/>
+    <nd ref="6169377783"/>
+    <nd ref="6169377781"/>
+    <nd ref="6169377780"/>
+    <nd ref="6169377779"/>
+    <nd ref="6169377778"/>
+    <nd ref="6169377777"/>
+    <nd ref="6169377776"/>
+    <nd ref="6169377775"/>
+    <nd ref="6169377774"/>
+    <nd ref="6169377773"/>
+    <nd ref="6169377772"/>
+    <nd ref="6169377771"/>
+    <nd ref="6169377770"/>
+    <nd ref="6169377786"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="658921353" version="1" timestamp="2018-12-28T22:04:43Z" changeset="65853744" uid="5778126" user="jdcarls2">
+    <nd ref="6169377799"/>
+    <nd ref="6169377798"/>
+    <nd ref="6169377797"/>
+    <nd ref="6169377794"/>
+    <nd ref="6169377789"/>
+    <nd ref="6169377796"/>
+    <nd ref="6169377790"/>
+    <nd ref="6169377795"/>
+    <nd ref="6169377793"/>
+    <nd ref="6169377788"/>
+    <nd ref="6169377792"/>
+    <nd ref="6169377787"/>
+    <nd ref="6169377791"/>
+    <nd ref="6169377799"/>
+    <tag k="landuse" v="residential"/>
+  </way>
