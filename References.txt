@@ -1,0 +1,8 @@
+References:
+
+https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.remove
+https://www.datacamp.com/community/tutorials/python-xml-elementtree
+https://www.geonames.org/postal-codes/US/WI/059/kenosha.html
+https://www.youtube.com/watch?v=r6dyk68gymk
+https://github.com/DiogoAdaoeSilva/DAND/tree/master/p3
+https://github.com/susanli2016/udacity-data-analyst/tree/master/p3
